@@ -1,4 +1,4 @@
-Black Backbone app.
+Blank Backbone app.
 ===
 
 Backbone, coffeescript, sass.
