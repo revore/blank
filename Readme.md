@@ -1,4 +1,4 @@
-Blank Backbone app.
+Blank Revore app.
 ===
 
 Backbone, coffeescript, sass.
